@@ -6,5 +6,5 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./class.component.css']
 })
 export class ClassComponent {
-  myClass = 'my-class';
+  myClass = 'my-class'; //used for class.component.css
 }

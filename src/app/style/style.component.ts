@@ -6,5 +6,5 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./style.component.css']
 })
 export class StyleComponent {
-  myStyle = {'color': 'red', 'font-size': '20px'};
+  myStyle = {'color': 'red', 'font-size': '20px'}; //style properties
 }

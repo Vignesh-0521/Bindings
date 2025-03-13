@@ -6,5 +6,5 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./property.component.css']
 })
 export class PropertyComponent {
-  property = 'Property Binding Example';
+  property = 'Property Binding Example'; //for property binding
 }

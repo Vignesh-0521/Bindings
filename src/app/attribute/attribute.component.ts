@@ -6,5 +6,5 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./attribute.component.css']
 })
 export class AttributeComponent{
-  isDisabled = true;
+  isDisabled = true;        //attribute binding
 }
